@@ -1,0 +1,22 @@
+{
+  "name": "big_data_viadeo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jp-caillet/big_data_viadeo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jp-caillet/big_data_viadeo/issues"
+  },
+  "homepage": "https://github.com/Jp-caillet/big_data_viadeo#readme",
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  }
+}
